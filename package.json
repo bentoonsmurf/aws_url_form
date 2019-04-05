@@ -1,0 +1,16 @@
+{
+  "name": "r",
+  "version": "0.0.1",
+  "description": "An example Node application with Nunjucks templates",
+  "scripts": {
+    "start": "node reflector.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.16.2",
+    "cookie-parser": "^1.4.4"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
